@@ -61,3 +61,30 @@ The system can be improved in the future by adding authentication, a database, a
 ---
 
 ## Project Structure
+task-management-system/
+│
+├── backend/
+│ ├── server.js
+│ └── tasks.json
+│
+├── frontend/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+│
+└── README.md
+
+---
+
+## How to Run the Project
+
+## Step 1: Start the Backend
+in the bash: cd backend then node server.js
+
+## Step 2: Open the Frontend
+Right-click frontend/index.html and open with Live Server
+
+---
+
+## Github Link to Project
+https://github.com/Oluwasuyi-Timilehin/sen201-task-management-system
