@@ -1,0 +1,25 @@
+{
+  "name": "sen201-task-management-system",
+  "version": "1.0.0",
+  "description": "The Task Management System is a software application designed to help users manage their daily tasks efficiently. Users can create, view, update, delete, and mark tasks as completed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwasuyi-Timilehin/sen201-task-management-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oluwasuyi-Timilehin/sen201-task-management-system/issues"
+  },
+  "homepage": "https://github.com/Oluwasuyi-Timilehin/sen201-task-management-system#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
